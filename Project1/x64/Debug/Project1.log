@@ -1,0 +1,5 @@
+﻿  obj.cpp
+C:\Users\MJama\source\repos\Project1\Project1\obj.cpp(95,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MJama\source\repos\Project1\Project1\obj.cpp(96,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\MJama\source\repos\Project1\x64\Debug\Project1.exe not found or not built by the last incremental link; performing full link
+  Project1.vcxproj -> C:\Users\MJama\source\repos\Project1\x64\Debug\Project1.exe
